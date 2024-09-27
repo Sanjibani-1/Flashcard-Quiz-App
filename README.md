@@ -1,5 +1,4 @@
 # Flashcard-Quiz-App
-#CodeAlpha
 
 
 This code implements a basic Flashcard Quiz App using Python's tkinter library for the graphical user interface (GUI). Below is a breakdown of its components and how it functions:
